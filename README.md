@@ -6,12 +6,12 @@ Some of the projects I have worked on:
 - [ucfcs/VizCon](https://github.com/ucfcs/VizCon) - A Concurrency Visualizer
   - Project manager
   - Lead UI Developer
-- jsgml - JavaScript Graphics Math Library
+- [jsgml](https://github.com/TheIceCreamBear/JSGML) - JavaScript Graphics Math Library
   - In progress
-  - Plans to publish to npm
+  - Available on npm
 - Multiple OpenGL projects
-  - LWJGLTesting - Learning OpenGL in Java
-  - Fight-Game - Using OpenGL in C
+  - [LWJGLTesting](https://github.com/TheIceCreamBear/LWJGLTesting) - Learning OpenGL in Java
+  - [Fight-Game](https://github.com/TheIceCreamBear/Fight-Game) - Using OpenGL in C
   - [stargazers](https://github.com/ctcuff/stargazers) - WebGL school project
 
 ## Tech
