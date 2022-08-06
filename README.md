@@ -1,5 +1,5 @@
 # Joseph Terribile (aka. TheIceCreamBear)
-My name is Joseph, and I have been writing code since late 2015. I am a (future as of writing) graduate from the University of Central Florida, with a B.S. in Computer Science, awarded in August 2022.
+My name is Joseph, and I have been writing code since late 2015. I am a graduate from the University of Central Florida, with a B.S. in Computer Science, awarded in August 2022.
 
 ## Projects
 Some of the projects I have worked on:
