@@ -1,8 +1,11 @@
-# Joseph Terribile (aka. TheIceCreamBear)
+# TheIceCreamBear
 My name is Joseph, and I have been writing code since late 2015. I am a graduate from the University of Central Florida, with a B.S. in Computer Science, awarded in August 2022.
 
 ## Projects
 Some of the projects I have worked on:
+- [CWAEmu](https://github.com/orgs/Clone-Wars-Adventures-Emulator) - Remake of Clone Wars Adventures in Unity
+  - Lead Developer
+  - Responsible for server code, game code, and other tools 
 - [ucfcs/VizCon](https://github.com/ucfcs/VizCon) - A Concurrency Visualizer
   - Project manager
   - Lead UI Developer
